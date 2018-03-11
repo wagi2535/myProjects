@@ -1,0 +1,1 @@
+Smiple responsive web-page with  HTML,CSS and Boostrap. 
