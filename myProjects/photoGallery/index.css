@@ -1,0 +1,32 @@
+body{
+	font-family: 'Roboto', helvetica, sans-serif;
+	padding-top: 70px;
+}
+*{
+	font-size: 22px;
+	letter-spacing: 120%
+}
+h2{
+	font-size: 30px;
+	text-align: center;
+	text-transform: upercase
+}
+#jumbo{
+	color: white;
+	background-color: #13101091;
+	height: 400px;	
+}
+
+
+.imag1{
+	background: url('https://source.unsplash.com/95YRwf6CNw8');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+ #imag-one, #imag-two,#imag-three, #imag-four, #imag-five, #imag-six{
+	width: 350px;
+	height: 233px;
+	
+}
+
